@@ -5,7 +5,7 @@
 // This file contains the JS functions for index.html
 'use strict'
 /**
-* This function calculates area and perimeter of rectangle.
+* This function calculates area volume of a pryamid
 */
 function doMATH() {
  // input
